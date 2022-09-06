@@ -1,0 +1,4 @@
+git: git est un logiciel de gestion de versions decentralise
+Git permet de stocker le code source d'un projet et de suivre l'historique complet de toutes les modifications apportées à ce code
+
+github: GitHub est une plateforme open source de gestion de versions et de collaboration destinée aux développeurs de logiciels.
